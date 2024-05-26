@@ -229,7 +229,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             </li>
             <li class="fw-bold nav-item">
                 <p class="nav-link text-light mt-3">
-                © 2024 Copyright Classic Garage, designed with love by Zayneb LAMRAIKI , Malak BENAICHA, Zineb RAZAQ
+                © 2024 Copyright Classic Garage, designed with love by Zayneb LAMRAIKI 
                 </p>
             </li>
         </ul>
