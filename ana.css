@@ -1,0 +1,16 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    background-color: black;
+}
+#contactButton{
+    max-width: 25em;
+}
+#price{
+    color: rgb(10, 196, 72);
+}
+#single-product{
+    size: 70%;
+}
